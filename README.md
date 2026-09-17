@@ -5,9 +5,9 @@ Software dev apprentice at Sunrise GmbH. Rust, TypeScript, and a homelab that ke
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=BBareth&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight&icon_color=8a5bff&title_color=5b8cff">
+    srcset="https://streak-stats.demolab.com/?user=BBareth&hide_border=true&theme=tokyonight&ring=5B8CFF&fire=8A5BFF&currStreakLabel=5B8CFF">
   <img
-    alt="BBareth's GitHub statistics: commits, pull requests, issues and stars"
-    src="https://github-readme-stats.vercel.app/api?username=BBareth&show_icons=true&hide_border=true&include_all_commits=true&title_color=5b8cff&icon_color=8a5bff"
-    height="165">
+    alt="Total contributions, current streak and longest streak on GitHub"
+    src="https://streak-stats.demolab.com/?user=BBareth&hide_border=true&ring=5B8CFF&fire=8A5BFF&currStreakLabel=5B8CFF"
+    height="180">
 </picture>
