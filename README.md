@@ -40,11 +40,6 @@ your own API key: OpenAI-compatible, DeepSeek or Claude. Attach open tabs and
 screenshots to a question. No server in between.
 `JavaScript` `Firefox` `WebExtensions`
 
-**[songcleaner](https://github.com/BBareth/songcleaner)**: a Geode mod for
-Geometry Dash that deletes a level's custom song when you delete the level, so
-unused mp3s stop piling up.
-`C++` `Geode`
-
 Everything here is MIT licensed. steward, herald and media_manager ship as
 images on `ghcr.io`, kestrel builds with one `docker compose`, and vitals ships
 as a single exe on its releases page. Issues and ideas are welcome.
