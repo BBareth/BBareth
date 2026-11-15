@@ -21,12 +21,6 @@ transcode and compress media in the browser. Give it a size in MB and it gets
 the file under it. Old files clean themselves up.
 `Rust` `React` `ffmpeg` `yt-dlp`
 
-**[kestrel](https://github.com/BBareth/kestrel)**: a paper-first trading desk
-for Binance BTCUSDT perpetual futures. A risk engine sizes and caps every trade
-before an AI layer may veto it, and every decision lands in an audit trail.
-Paper trading until you say otherwise.
-`Python` `FastAPI` `React` `PostgreSQL`
-
 #### On your own machine
 
 **[vitals](https://github.com/BBareth/vitals)**: a hotkey hardware-stats panel
@@ -41,5 +35,4 @@ screenshots to a question. No server in between.
 `JavaScript` `Firefox` `WebExtensions`
 
 Everything here is MIT licensed. steward, herald and media_manager ship as
-images on `ghcr.io`, kestrel builds with one `docker compose`, and vitals ships
-as a single exe on its releases page. Issues and ideas are welcome.
+images on `ghcr.io`, and vitals ships as a single exe on its releases page. Issues and ideas are welcome.
