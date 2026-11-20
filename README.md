@@ -1,9 +1,5 @@
 ### BBareth
 
-Software dev apprentice at Sunrise GmbH. I build small tools I use myself,
-mostly in Rust and TypeScript: no accounts, no subscriptions, and docs that say
-what actually happens.
-
 #### Self-hosted
 
 **[steward](https://github.com/BBareth/steward)**: a Discord admin bot that AI
